@@ -1,0 +1,7 @@
+https://huggingface.co/datasets/Datasetssickness/Calories/viewer
+https://huggingface.co/datasets/LitcherX/calories/tree/main
+https://huggingface.co/datasets/LitcherX/calories/raw/main/kajak.csv
+Name, Calories, Protein, Carbohydrates, Fat
+
+https://www.kaggle.com/datasets/vaishnavivenkatesan/food-and-their-calories
+https://www.kaggle.com/datasets/sujaykapadnis/fast-food-calories-data
